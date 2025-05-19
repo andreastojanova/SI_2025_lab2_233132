@@ -24,6 +24,7 @@
   6. FTF
   7. FFT
   8. FFF
+
 Минималниот број на тест случаи според Multiple Condition за
 условот if (item.getPrice() > 300 || item.getDiscount() > 0 || item.getQuantity() > 10) е 4, бидејќи || e short-circuit оператор, па доволни се следниве 4 сценарија:
 1. A=T (B и C се irrelevant) 
